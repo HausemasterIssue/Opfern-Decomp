@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "opfern",
+    "name": "Opfern",
+    "description": "Client Developed by 2q1",
+    "version": "1.3.0",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["2q1"],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
